@@ -20,7 +20,7 @@ EXTRA_DIST = \
 	Manifest watchgnupg.c no-libgcrypt.c \
 	addgnupghome applygnupgdefaults \
 	lspgpot mail-signed-keys convert-from-106 sockprox.c \
-	ccidmon.c ChangeLog-2011 gpg-connect-agent-w32info.rc
+	ccidmon.c gpg-connect-agent-w32info.rc
 
 
 AM_CPPFLAGS =

@@ -43,7 +43,7 @@ testscripts = import-all-certs validate-all-certs \
 	private-certificate-extensions
 
 
-EXTRA_DIST = inittests runtest common.sh $(testscripts) ChangeLog-2011 \
+EXTRA_DIST = inittests runtest common.sh $(testscripts) \
 	     import-all-certs.data
 
 TESTS =

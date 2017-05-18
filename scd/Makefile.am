@@ -17,7 +17,7 @@
 
 ## Process this file with automake to produce Makefile.in
 
-EXTRA_DIST = ChangeLog-2011 scdaemon-w32info.rc
+EXTRA_DIST = scdaemon-w32info.rc
 
 libexec_PROGRAMS = scdaemon
 

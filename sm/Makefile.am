@@ -17,7 +17,7 @@
 
 ## Process this file with automake to produce Makefile.in
 
-EXTRA_DIST = ChangeLog-2011 gpgsm-w32info.rc
+EXTRA_DIST = gpgsm-w32info.rc
 
 bin_PROGRAMS = gpgsm
 

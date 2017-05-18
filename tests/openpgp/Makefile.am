@@ -249,7 +249,7 @@ sample_msgs = samplemsgs/clearsig-1-key-1.asc \
 
 EXTRA_DIST = defs.scm $(XTESTS) $(TEST_FILES) \
 	     mkdemodirs signdemokey $(priv_keys) $(sample_keys)   \
-	     $(sample_msgs) ChangeLog-2011 run-tests.scm \
+	     $(sample_msgs) run-tests.scm \
 	     setup.scm shell.scm all-tests.scm
 
 CLEANFILES = prepared.stamp x y yy z out err  $(data_files) \

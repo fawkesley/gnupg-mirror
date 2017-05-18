@@ -19,7 +19,7 @@
 ## Process this file with automake to produce Makefile.in
 
 EXTRA_DIST = distsigkey.gpg \
-	     ChangeLog-2011 gpg-w32info.rc \
+	     gpg-w32info.rc \
 	     gpg.w32-manifest.in test.c t-keydb-keyring.kbx \
 	     t-keydb-get-keyblock.gpg t-stutter-data.asc \
 	     all-tests.scm
